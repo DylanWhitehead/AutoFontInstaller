@@ -17,7 +17,7 @@ Due to the nature of its task, it needs Admin privileges to access the Windows F
 
 Follow these steps to successfully install your font files:
 1. Download and unzip the font files you want to install. 
-2. Place all the unzipped font files in one folder.
+2. Place all the unzipped font files/folders in one folder to act as the directory.
 3. Run the `build/font_installer` application.
 4. On running the application, you will be asked for admin privileges. Grant them to allow the application to install your fonts.
 
