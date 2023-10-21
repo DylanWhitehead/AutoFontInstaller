@@ -1,0 +1,13 @@
+# Ignore Python Byte-Compiled Files
+*.pyc
+__pycache__/
+
+# Ignore Virtual Environments
+.venv
+
+# Ignore the built dist directory
+/dist
+
+# Ignore IDE related files
+.idea/
+*.code-workspace
