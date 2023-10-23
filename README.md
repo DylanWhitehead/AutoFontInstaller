@@ -2,9 +2,9 @@
 
 ## Description
 
-This app is a stand-alone executable that automatically looks for and installs all font files in a directory. Simply unzip your fonts, and place them all in one folder. Don't worry if the folders are nested or not. Auto Font Installer will look through the designated directory and all nested folders and will copy any common font file to the Windows Font Directory.
+This stand-alone executable app automatically looks for and installs all font files in a directory. Simply unzip your fonts, and place them all in one folder. Don't worry if the folders are nested or not. Auto Font Installer will look through the designated directory and all nested folders and will copy any common font file to the Windows Font Directory.
 
-Due to the nature of its task, it needs Admin privileges to access the Windows Font Directory. Therefore, a popup will appear asking for admin rights when you run this application.
+Due to the nature of its task, it needs Admin privileges to access the Windows Font Directory. Therefore, when you run this application, a popup will appear asking for admin rights.
 
 ## Files
 
@@ -15,7 +15,7 @@ Due to the nature of its task, it needs Admin privileges to access the Windows F
 
 ## Usage
 
-Follow these steps to successfully install your font files:
+Follow these steps to install your font files successfully:
 1. Download and unzip the font files you want to install. 
 2. Place all the unzipped font files/folders in one folder to act as the directory.
 3. Run the `build/font_installer` application.
